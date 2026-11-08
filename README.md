@@ -20,3 +20,9 @@ website project.
 ## Developer
 
 Your Name
+
+## Project Goal
+
+To provide an accessible platform
+for emergency and disaster-related information
+in Kerala.
