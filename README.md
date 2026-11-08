@@ -26,3 +26,6 @@ Your Name
 To provide an accessible platform
 for emergency and disaster-related information
 in Kerala.
+
+## Initiative
+Learning Git and GitHub as a beginner developer!
